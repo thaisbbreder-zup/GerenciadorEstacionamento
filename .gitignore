@@ -37,4 +37,5 @@ build/
 ### Mac OS ###
 .DS_Store
 
-db.properties
+# Propriedades banco de dados
+/src/main/resources/db.properties
